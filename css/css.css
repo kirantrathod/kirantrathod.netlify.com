@@ -1,0 +1,21 @@
+.site-header{
+    background-color: purple;
+    color: white;
+    padding: 40;
+    font-family: monospace;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-image{
+    border-radius: 60%;
+    width:200px; 
+    height:200px;
+    box-shadow: black 1px 2px 5px;
+}
+.profile-card{
+    margin: 40px;
+}
